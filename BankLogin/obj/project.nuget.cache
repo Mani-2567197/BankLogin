@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YF4aIr+ULgVoegvDRTbfFls/WLGB965V5dgK7h/B5ElyicsiEFhYzHzLPUg0Xugdwe5vzx8rG+OCDypj0JgbMQ==",
+  "success": true,
+  "projectFilePath": "E:\\Phase3\\Projects\\BankLogin\\BankLogin\\BankLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MANIKANTA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
